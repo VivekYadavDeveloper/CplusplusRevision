@@ -15,7 +15,7 @@ int main()
 
     int *b = &a;
     /* &-----> Address of Operator*/
-    cout << "The Address Of a is: " << &a << endl;
+    cout << "The Address Of a      is: " << &a << endl;
     cout << "The Address Of a is: " << b << endl;
 
     /* *(Value at)-----> Derefernces of Operator*/
