@@ -25,6 +25,6 @@ int main()
 
     cout << "Enter Number: " << endl;
     cin >> a;
-    cout << "The Term in Fibonacci Sequence At Posiotion of " << a << " is: " << fib(a) << endl;
+    cout << "The Term in Fibonacci Sequence At Posiotion of " << a << " is: " << factorial(a) << endl;
     return 0;
 }
